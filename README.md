@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Subject 2.png" width="50%" alt="Subject"/>
+  <img src="./3.gif" width="70%" alt="Subject"/>
 </p>
 
 <h1>Hello Dear</h1>
