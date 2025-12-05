@@ -15,7 +15,7 @@ create, and innovate.
 
 ---
 <p align="center">
-  <img src="./3.gif" width="100" alt="Parsa GIF" />
+  <img src="./assets/3.gif" width="100%" alt="icon" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ To build software that empowers developers, inspires creativity,
 and leaves behind a lasting impact on the tech community.
 
 ---
-  <img src="./assets/snake.svg" width="100%" alt="Parsa GIF" />
+  <img src="./assets/snake.svg" width="100%" alt="icon" />
 
 ---
 <p align="center">
