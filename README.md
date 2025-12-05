@@ -6,7 +6,7 @@
 
 ---
 
-### 🌟 About Me  
+### About Me ...
 I’m a backend engineer who blends creativity with technology to build meaningful, secure,  
 and scalable systems. My main stack revolves around **Laravel** and **.NET**, supported  
 by a strong foundation in networking, cybersecurity, and modern web practices.
@@ -16,7 +16,18 @@ create, and innovate.
 
 ---
 
-### 🛠 Tech Stack & Expertise
+ <p align="center">
+  <img src="./assets/icon/atoms.png" alt="Parsa GIF" />
+  <img src="./assets/icon/atoms.png" alt="Parsa GIF" />
+  <img src="./assets/icon/atoms.png" alt="Parsa GIF" />
+  <img src="./assets/icon/atoms.png" alt="Parsa GIF" />
+
+</p>
+
+---
+
+
+### Tech Stack & Expertise
 
 #### **Backend Development**
 - PHP (Laravel)  
@@ -36,7 +47,7 @@ create, and innovate.
 
 ---
 
-### 🎯 Vision  
+###  Vision  
 To build software that empowers developers, inspires creativity,  
 and leaves behind a lasting impact on the tech community.
 
