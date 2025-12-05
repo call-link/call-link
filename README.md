@@ -21,6 +21,21 @@ create, and innovate.
 ---
 ### Tech Stack & Expertise
 
+ <p align="center">
+  <img src="./assets/icon/c-sharp.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/website.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/html.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/java-script.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/php.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/python.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/ubuntu.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/virus.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/bootstrap.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/social.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/apple.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/programing.png" width="50" heigth="50" alt="icon" />
+</p>
+
 #### **Backend Development**
 - PHP (Laravel)  
 - C# (.NET)  
@@ -38,23 +53,6 @@ create, and innovate.
 - JavaScript  
 
 ---
- <p align="center">
-  <img src="./assets/icon/c-sharp.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/website.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/html.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/java-script.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/php.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/python.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/ubuntu.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/virus.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/bootstrap.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/social.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/apple.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/programing.png" width="50" heigth="50" alt="icon" />
-</p>
-
----
-
 ###  Vision  
 To build software that empowers developers, inspires creativity,  
 and leaves behind a lasting impact on the tech community.
