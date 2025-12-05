@@ -3,8 +3,8 @@
 <p align="center">
   <strong>Backend Developer • Security Enthusiast • Bug Hunter</strong>
 </p>
----
 
+---
 ### About Me ...
 I’m a backend engineer who blends creativity with technology to build meaningful, secure,  
 and scalable systems. My main stack revolves around **Laravel** and **.NET**, supported  
@@ -14,10 +14,6 @@ I see coding as a craft — a way to design something timeless that helps others
 create, and innovate.
 
 ---
-  <img src="./assets/snake.svg" width="100%" alt="Parsa GIF" />
-  
----
-
 ### Tech Stack & Expertise
 
 #### **Backend Development**
@@ -51,12 +47,17 @@ create, and innovate.
   <img src="./assets/icon/apple.png" width="50" heigth="50" alt="icon" />
   <img src="./assets/icon/programing.png" width="50" heigth="50" alt="icon" />
 </p>
+
 ---
 
 ###  Vision  
 To build software that empowers developers, inspires creativity,  
 and leaves behind a lasting impact on the tech community.
 
+---
+  <img src="./assets/snake.svg" width="100%" alt="Parsa GIF" />
+
+---
 <p align="center">
   <em>Building with purpose. Securing with passion. Growing with curiosity.</em>
 </p>
