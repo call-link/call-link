@@ -50,6 +50,9 @@ create, and innovate.
 - React  
 - JavaScript  
 
+<p align="center">
+  <img src="./assets/xss.png" width="50%" heigth="50%" alt="icon" />
+</p>
 ---
 ###  Vision  
 To build software that empowers developers, inspires creativity,  
