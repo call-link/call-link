@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./3.gif" width="200" alt="Parsa GIF" />
-</p>
-
-<h1 align="center">✨ Parsa Panahpoor ✨</h1>
+<h1 align="center">✨ Hadi Mohammadi ✨</h1>
 
 <p align="center">
   <strong>Backend Developer • Security Enthusiast • Bug Hunter</strong>
