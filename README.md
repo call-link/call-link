@@ -17,10 +17,12 @@ create, and innovate.
 ---
 
  <p align="center">
-  <img src="./assets/icon/atoms.png" width="50" heigth="50" alt="Parsa GIF" />
-  <img src="./assets/icon/atoms.png" width="50" heigth="50" alt="Parsa GIF" />
-  <img src="./assets/icon/atoms.png" width="50" heigth="50" alt="Parsa GIF" />
-  <img src="./assets/icon/atoms.png" width="50" heigth="50" alt="Parsa GIF" />
+  <img src="./assets/icon/html.png" width="50" heigth="50" alt="Parsa GIF" />
+  <img src="./assets/icon/ubuntu.png" width="50" heigth="50" alt="Parsa GIF" />
+  <img src="./assets/icon/java-script.png" width="50" heigth="50" alt="Parsa GIF" />
+  <img src="./assets/icon/php.png" width="50" heigth="50" alt="Parsa GIF" />
+  <img src="./assets/icon/social.png" width="50" heigth="50" alt="Parsa GIF" />
+  <img src="./assets/icon/java-script.png" width="50" heigth="50" alt="Parsa GIF" />
 
 </p>
 
