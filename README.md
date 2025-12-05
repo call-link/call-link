@@ -3,7 +3,6 @@
 <p align="center">
   <strong>Backend Developer • Security Enthusiast • Bug Hunter</strong>
 </p>
-
 ---
 
 ### About Me ...
@@ -15,24 +14,8 @@ I see coding as a craft — a way to design something timeless that helps others
 create, and innovate.
 
 ---
-
- <p align="center">
-  <img src="./assets/icon/c-sharp.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/website.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/html.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/java-script.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/php.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/python.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/ubuntu.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/virus.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/bootstrap.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/social.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/apple.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/programing.png" width="50" heigth="50" alt="icon" />
-</p>
-
+  <img src="./assets/snake.svg" width="100%" alt="Parsa GIF" />
 ---
-
 
 ### Tech Stack & Expertise
 
@@ -53,9 +36,20 @@ create, and innovate.
 - JavaScript  
 
 ---
-
-  <img src="./assets/snake.svg" width="100%" alt="Parsa GIF" />
-
+ <p align="center">
+  <img src="./assets/icon/c-sharp.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/website.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/html.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/java-script.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/php.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/python.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/ubuntu.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/virus.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/bootstrap.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/social.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/apple.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/programing.png" width="50" heigth="50" alt="icon" />
+</p>
 ---
 
 ###  Vision  
