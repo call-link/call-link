@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="./assets/Subject.png" width="100%" alt="icon" />
+  <img src="./assets/image.png" width="50%" heigth="50%" alt="icon" />
 </p>
 
 ---
