@@ -50,13 +50,13 @@ create, and innovate.
 - React  
 - JavaScript  
 - Html / Css
+
+<img src="./assets/snake.svg" width="100%" alt="icon" />
+
 ---
 ###  Vision  
 To build software that empowers developers, inspires creativity,  
 and leaves behind a lasting impact on the tech community.
-
----
-  <img src="./assets/snake.svg" width="100%" alt="icon" />
 
 ---
 <p align="center">
