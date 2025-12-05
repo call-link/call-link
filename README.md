@@ -62,5 +62,5 @@ and leaves behind a lasting impact on the tech community.
 
 ---
 <p align="center">
-  <em>Building with purpose. Securing with passion. Growing with curiosity.</em>
+  <em> << Building with purpose. Securing with passion. Growing with curiosity. >> </em>
 </p>
