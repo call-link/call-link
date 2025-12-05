@@ -49,10 +49,7 @@ create, and innovate.
 #### **Frontend**
 - React  
 - JavaScript  
-
-<p align="center">
-  <img src="./assets/xss.png" width="50%" heigth="50%" alt="icon" />
-</p>
+- Html / Css
 ---
 ###  Vision  
 To build software that empowers developers, inspires creativity,  
@@ -63,5 +60,5 @@ and leaves behind a lasting impact on the tech community.
 
 ---
 <p align="center">
-  <em> << Building with purpose. Securing with passion. Growing with curiosity. >> </em>
+  <em> << Building with purpose. Securing with passion. Growing with curiosity. >><em>
 </p>
