@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hadi Mohammadi ✨</h1>
+<h1 align="center"> Hadi Mohammadi </h1>
 
 <p align="center">
   <strong>Backend Developer • Security Enthusiast • Bug Hunter</strong>
