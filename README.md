@@ -5,7 +5,7 @@
 </p>
 
 ---
-<p align="left">
+<p align="rigth">
   <img src="./assets/image.png" width="50%" heigth="50%" alt="icon" />
 </p>
 
