@@ -15,6 +15,7 @@ create, and innovate.
 
 ---
   <img src="./assets/snake.svg" width="100%" alt="Parsa GIF" />
+  
 ---
 
 ### Tech Stack & Expertise
