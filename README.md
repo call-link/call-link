@@ -4,12 +4,10 @@
   <strong>Backend Developer • Security Enthusiast • Bug Hunter</strong>
 </p>
 
----
 <p align="center">
   <img src="./assets/xs.png" width="50%" heigth="50%" alt="icon" />
 </p>
 
----
 ### About Me ...
 I’m a backend engineer who blends creativity with technology to build meaningful, secure,  
 and scalable systems. My main stack revolves around **Laravel** and **.NET**, supported  
