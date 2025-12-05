@@ -14,6 +14,11 @@ I see coding as a craft — a way to design something timeless that helps others
 create, and innovate.
 
 ---
+<p align="center">
+  <img src="./3.gif" width="100" alt="Parsa GIF" />
+</p>
+
+---
 ### Tech Stack & Expertise
 
 #### **Backend Development**
