@@ -5,6 +5,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="./assets/3.gif" width="100%" alt="icon" />
+</p>
+
+---
 ### About Me ...
 I’m a backend engineer who blends creativity with technology to build meaningful, secure,  
 and scalable systems. My main stack revolves around **Laravel** and **.NET**, supported  
@@ -12,11 +17,6 @@ by a strong foundation in networking, cybersecurity, and modern web practices.
 
 I see coding as a craft — a way to design something timeless that helps others build,  
 create, and innovate.
-
----
-<p align="center">
-  <img src="./assets/3.gif" width="100%" alt="icon" />
-</p>
 
 ---
 ### Tech Stack & Expertise
