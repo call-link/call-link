@@ -18,9 +18,9 @@ create, and innovate.
 
  <p align="center">
   <img src="./assets/icon/c-sharp.png" width="50" heigth="50" alt="icon" />
-  <!-- <img src="./assets/icon/website.png" width="50" heigth="50" alt="icon" />
+  <img src="./assets/icon/website.png" width="50" heigth="50" alt="icon" />
   <img src="./assets/icon/html.png" width="50" heigth="50" alt="icon" />
-  <img src="./assets/icon/java-script.png" width="50" heigth="50" alt="icon" />
+  <!--<img src="./assets/icon/java-script.png" width="50" heigth="50" alt="icon" />
   <img src="./assets/icon/php.png" width="50" heigth="50" alt="icon" />
   <img src="./assets/icon/python.png" width="50" heigth="50" alt="icon" />
   <img src="./assets/icon/ubuntu.png" width="50" heigth="50" alt="icon" />
